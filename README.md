@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-I’m a Cyber Security Analyst focused on building practical, actionable security outcomes through threat intelligence, threat hunting, and malware analysis.
-
-### 🔍 What I focus on
+### 🔍 Focus Areas
 - **Threat Intelligence:** Translating threat reporting and adversary activity into defensive insight.
 - **Threat Hunting:** Supporting proactive detection and investigation workflows.
 - **Malware Analysis:** Operating a malware lab to analyze suspicious samples and behaviors.
@@ -11,5 +9,3 @@ I’m a Cyber Security Analyst focused on building practical, actionable securit
 ### ✅ Certifications
 - CompTIA Security+
 - CompTIA Tech+
-
-I value clear analysis, operational impact, and continuous improvement across security operations.
