@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 ### 🔍 Focus Areas
-- **Threat Intelligence:** Translating threat reporting and adversary activity into defensive insight.
-- **Threat Hunting:** Supporting proactive detection and investigation workflows.
-- **Malware Analysis:** Operating a malware lab to analyze suspicious samples and behaviors.
-- **Security Tooling:** Creating custom internal tools to improve analyst workflows and visibility.
+- **Threat Intelligence**
+- **Threat Hunting**
+- **Malware Analysis**
+- **Security Tooling**
 
 ### ✅ Certifications
-- CompTIA Security+
-- CompTIA Tech+
+- **CompTIA Security+**
+- **CompTIA Tech+**
