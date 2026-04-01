@@ -10,6 +10,6 @@
 - **Python**
 - **Java**
 
-### ✅ Certifications
+### 📜 Certifications
 - **CompTIA Security+**
 - **CompTIA Tech+**
