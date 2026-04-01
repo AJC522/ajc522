@@ -6,6 +6,10 @@
 - **Malware Analysis**
 - **Security Tooling**
 
+### 💻 Technical Background
+- **Python**
+- **Java**
+
 ### ✅ Certifications
 - **CompTIA Security+**
 - **CompTIA Tech+**
