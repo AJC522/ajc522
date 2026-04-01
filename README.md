@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**AJC522/ajc522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Cyber Security Analyst focused on building practical, actionable security outcomes through threat intelligence, threat hunting, and malware analysis.
 
-Here are some ideas to get you started:
+### 🔍 What I focus on
+- **Threat Intelligence:** Translating threat reporting and adversary activity into defensive insight.
+- **Threat Hunting:** Supporting proactive detection and investigation workflows.
+- **Malware Analysis:** Operating a malware lab to analyze suspicious samples and behaviors.
+- **Security Tooling:** Creating custom internal tools to improve analyst workflows and visibility.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✅ Certifications
+- CompTIA Security+
+- CompTIA Tech+
+
+I value clear analysis, operational impact, and continuous improvement across security operations.
