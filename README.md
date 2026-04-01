@@ -1,19 +1,22 @@
 ## Hi there 👋
 
+### About Me
+I’m a cybersecurity practitioner focused on turning threat data into actionable intelligence. I enjoy combining threat intelligence, threat hunting, and malware analysis to better understand adversary behavior and improve defensive outcomes.
+
 ### 🔍 Focus Areas
 - **Threat Intelligence**
-  - Intelligence Ingestion & Processing
-  - Data Collection
+  - Intelligence ingestion and processing
+  - Data collection
 - **Threat Hunting**
-  - IOC Identification & Collection
-  - Network Monitoring & Mapping
+  - IOC identification and collection
+  - Network monitoring and mapping
 - **Malware Analysis**
-  -  Metadata Review
-  -  Application Security
-  -  Reverse Engineering
+  - Metadata review
+  - Application security
+  - Reverse engineering
 - **Security Tooling**
-  - Application Development
-  - Application Hardening
+  - Application development
+  - Application hardening
 
 ### 💻 Technical Background
 - **Python**
