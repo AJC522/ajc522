@@ -30,4 +30,8 @@ I’m a cybersecurity practitioner focused on turning threat data into actionabl
 - **CompTIA Security+**
 - **CompTIA Tech+**
 
+
+
+
+
 ![Bottom GIF](./a99f12183dea7b6031bfa92eea094982.gif)
