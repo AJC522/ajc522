@@ -1,5 +1,3 @@
-![Top GIF](./a99f12183dea7b6031bfa92eea094982.gif)
-
 ## Hi there 👋
 
 ### About Me
@@ -32,4 +30,4 @@ I’m a cybersecurity practitioner focused on turning threat data into actionabl
 - **CompTIA Security+**
 - **CompTIA Tech+**
 
-![Bottom GIF](./giphy.gif)
+![Bottom GIF](./a99f12183dea7b6031bfa92eea094982.gif)
