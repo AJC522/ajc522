@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🌿 About Me
-I’m a Cybersecurity Analyst with operational experience in security operations, threat intelligence, and incident response supporting critical infrastructure/energy organizations. Skilled in Tier 1-3 SOC functions, including phishing analysis, endpoint detection and response (EDR) investigation, malware analysis, and network monitoring.
+I’m a Cybersecurity Analyst with operational experience in security operations, threat intelligence, and incident response. Skilled in Tier 1-3 SOC functions, including phishing analysis, endpoint detection and response (EDR) investigation, malware analysis, and network monitoring.
 
 Experienced with Windows and Linux administration and software development. Known for a detail-oriented, research-driven approach focused on defending both IT and OT environments and continuously strengthening technical capabilities.
 
