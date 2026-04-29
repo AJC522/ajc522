@@ -3,7 +3,7 @@
 ### 🌿 About Me
 I’m a Cybersecurity Analyst with operational experience in security operations, threat intelligence, and incident response. Skilled in Tier 1-3 SOC functions, including phishing analysis, endpoint detection and response (EDR) investigation, malware analysis, and network monitoring.
 
-Experienced with Windows and Linux administration and software development. Known for a detail-oriented, research-driven approach focused on defending both IT and OT environments and continuously strengthening technical capabilities.
+Experienced with Windows and Linux administration and software development. I have a very detail-oriented, research-driven approach focused on both IT and OT environments and continuously strengthening technical capabilities.
 
 ### 🌳 Focus Areas
 - **Threat Intelligence**
@@ -15,7 +15,7 @@ Experienced with Windows and Linux administration and software development. Know
 - **Malware Analysis**
   - Metadata review
   - Application security
-  - Reverse engineering
+  - Reverse engineering and decompilation
 - **Security Tooling**
   - Application development
   - Application hardening
@@ -27,6 +27,15 @@ Experienced with Windows and Linux administration and software development. Know
 ### 🌱 Currently Learning
 - **Rust**
 - **6502 Assembly**
+- **COBOL**
+
+### 🌰 Other Interests
+- **C**
+- **C++**
+- **C#**
+- **IBM Assembly**
+- **x86 Assembly**
+- **Fortran**
 
 ### 📜 Certifications
 - **CompTIA Security+**
