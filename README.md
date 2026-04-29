@@ -21,21 +21,20 @@ Experienced with Windows and Linux administration and software development. I ha
   - Application hardening
 
 ### 🪵 Technical Background
-- **Python**
-- **Java**
-
-### 🌱 Currently Learning
-- **Rust**
-- **6502 Assembly**
-- **COBOL**
-
-### 🌰 Other Interests
-- **C**
-- **C++**
-- **C#**
-- **IBM Assembly**
-- **x86 Assembly**
-- **Fortran**
+- **Programming and Scripting:**
+  - Python
+  - Java
+- **Working Familiarity:**
+  - C
+  - C++
+  - C#
+  - Rust
+- **Currently Learning:**
+  - COBOL
+  - 6502 Assembly
+  - IBM Assembly
+  - x86 Assembly
+  - Fortran
 
 ### 📜 Certifications
 - **CompTIA Security+**
