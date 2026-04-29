@@ -20,7 +20,7 @@ Experienced with Windows and Linux administration and software development. I ha
   - Application development
   - Application hardening
 
-### 🪵 Technical Background
+### 🌱 Technical Background
 - **Programming and Scripting:**
   - Python
   - Java
@@ -39,6 +39,9 @@ Experienced with Windows and Linux administration and software development. I ha
 ### 📜 Certifications
 - **CompTIA Security+**
 - **CompTIA Tech+**
+
+### 🏫 Education
+- B.Sc. Cybersecurity - The University of Tampa
 
 
 
