@@ -34,7 +34,6 @@ Experienced with Windows and Linux administration and software development. I ha
   - 6502 Assembly
   - IBM Assembly
   - x86 Assembly
-  - Fortran
 
 ### 📜 Certifications
 - **CompTIA Security+**
