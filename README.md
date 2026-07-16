@@ -54,10 +54,6 @@ I like building depth in both modern and legacy computing topics. Current areas 
 
 - B.Sc. in Cybersecurity, The University of Tampa
 
-## How I Approach Security Work
-
-I approach security work with curiosity, discipline, and a focus on practical outcomes. I try to turn messy technical signals into clear findings, useful documentation, and repeatable processes that help improve detection, response, and overall security posture.
-
 ## Privacy Note
 
 Public repositories and profile content are intentionally sanitized. I do not publish employer-identifying information, customer details, internal architecture, production data, incident specifics, or confidential project materials.
