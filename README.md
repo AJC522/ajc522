@@ -1,4 +1,4 @@
-# Hi, I'm Alex 👋
+# Hi 👋
 
 I work in cybersecurity with a focus on security operations, threat intelligence, incident response, and practical security engineering.
 
