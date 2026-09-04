@@ -32,7 +32,7 @@ These are public-safe examples of the types of work I build and share. Project d
 
 ## Consultancy
 
-My consultancy, [GTAC - Global Threat Analysis Center](https://globalthreatanalysiscenter.com/), focuses on cybersecurity and threat intelligence work that helps organizations and individuals make sense of complex risk. GTAC's public services include cybersecurity consulting, malware analysis, digital forensics, data recovery, cyber threat intelligence, all-source intelligence, and physical security assessment.
+My consultancy, [Nadirion](https://nadirion.us/), focuses on cybersecurity and threat intelligence work that helps organizations and individuals make sense of complex risk. Nadirion's public services include cybersecurity consulting, malware analysis, digital forensics, data recovery, cyber threat intelligence, all-source intelligence, and physical security assessment.
 
 ## Current Learning
 
