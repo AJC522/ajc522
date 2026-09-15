@@ -50,6 +50,14 @@ I like building depth in both modern and legacy computing topics. Current areas 
 - CompTIA Security+
 - CompTIA Tech+
 
+## Certificates
+
+- InfoSec Institute:
+  - Threat Intelligence
+  - Security Architecture
+  - Countermeasures
+  - Introduction to x86 Disassembly
+
 ## Education
 
 - B.Sc. in Cybersecurity, The University of Tampa
