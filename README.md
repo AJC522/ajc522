@@ -57,6 +57,7 @@ I like building depth in both modern and legacy computing topics. Current areas 
   - Security Architecture
   - Countermeasures
   - Introduction to x86 Disassembly
+  - Network Forensics
 
 ## Education
 
