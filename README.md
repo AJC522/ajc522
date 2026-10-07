@@ -59,6 +59,7 @@ I like building depth in both modern and legacy computing topics. Current areas 
   - Introduction to x86 Disassembly
   - Network Forensics
   - Mobile Forensics
+  - Forensic File System Artifacts
 
 ## Education
 
